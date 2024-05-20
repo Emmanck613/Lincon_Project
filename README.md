@@ -1,8 +1,7 @@
-# Lincon_Project
-Repositorio para el reto Lincon
+# Getting Started with Create React App
 
-Creado Utilizando React y JS.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Para el estilo se instalo SASS y Tailwind.
+Desarrollado con React y JS.
 
-Testing
+Para el estilo se utilizo SASS y Tailwind. 
